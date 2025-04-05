@@ -7,7 +7,7 @@ Ollama 集成：与 Ollama 无缝衔接，借助其丰富 AI 模型开展对话�
 高度可定制：能依据项目需求，定制聊天窗口的外观与行为。<br>
 易于集成：安装与配置流程简便，可快速集成到现有 UE5.5 项目中 。<br>
 ## 安装<br>
-![image](public/action.png)
+![image](https://github.com/MISSLOOL/AI_Changing/tree/master/action.png)
 ### 前提条件
 Unreal Engine 5.5
 ### 步骤
