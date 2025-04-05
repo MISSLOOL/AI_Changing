@@ -14,18 +14,18 @@ Unreal Engine 5.5
 2.将AI_Changing\Resources创建一个名为“AI_ZD”的文件夹<br>
 3.然后从“https://github.com/ollama/ollama/releases/tag/v0.6.4” 下载win版本的ollama<br>
 4.解压并发将名为“ollama”的文件夹放置在“AI_ZD”的文件夹下面<br>
-  如果你不想：进行2，3，4步骤，可以直接下载整个插件：<br>
-   链接: https://pan.baidu.com/s/1-mMF_3GmJ4Vn8_rHBRmfdw 提取码: 9420 <br>
+  &ensp;&ensp;如果你不想：进行2，3，4步骤，可以直接下载整个插件：<br>
+   &ensp;&ensp;链接: https://pan.baidu.com/s/1-mMF_3GmJ4Vn8_rHBRmfdw 提取码: 9420 <br>
 5.将整个插件文件夹复制到 UE5.5 项目的Plugins目录下。<br>
 6.打开 UE5.5 编辑器，在Edit -> Plugins中找到 AI_Changing 插件并启用。<br>
 7.重启 UE5.5 编辑器。
 ## 配置
-打开 UE5.5 编辑器，在 “编辑器偏好” 的 “插件” 的 “AI chat” 开源设置中，找到 AI_Changing 插件的配置选项。<br>
-默认已配置 Ollama 的 “API” 地址和 “11434” 端口。<br>
+1.打开 UE5.5 编辑器，在 “编辑器偏好” 的 “插件” 的 “AI chat” 开源设置中，找到 AI_Changing 插件的配置选项。<br>
+2.默认已配置 Ollama 的 “API” 地址和 “11434” 端口。<br>
 ## 使用方法
-点击编辑器工具栏上方的图标按钮，或在窗口下拉菜单最下方的图标按钮，即可调出聊天窗口。<br>
-按需选择合适 AI 模型，若没有模型，点击启动服务后会自动下载相应模型。<br>
-用户可在输入框输入消息，与 AI 对话。<br>
+1.点击编辑器工具栏上方的图标按钮，或在窗口下拉菜单最下方的图标按钮，即可调出聊天窗口。<br>
+2.按需选择合适 AI 模型，若没有模型，点击启动服务后会自动下载相应模型。<br>
+3.用户可在输入框输入消息，与 AI 对话。<br>
 ## 贡献
 欢迎社区贡献！若有改进建议、bug 修复或新功能设想，可通过以下方式参与：<br>
 提交 issue：在 GitHub 的 issue 页面提出问题或建议。<br>
