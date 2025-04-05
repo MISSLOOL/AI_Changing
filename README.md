@@ -1,4 +1,4 @@
-# AI_Changing-UE5.5 开源插件:基于 Ollama 的 AI 聊天窗口
+# AI_Changing-UE5.5 开源插件:基于Ollama的本地AI部署插件
 ## 概述
 AI_Changing 是专为 Unreal Engine 5.5 开发的开源插件，集成 Ollama 强大功能，为开发者打造便捷的 AI 聊天窗口解决方案。<br>
 ## 特性
