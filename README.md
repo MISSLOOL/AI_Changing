@@ -10,10 +10,13 @@ Ollama 集成：与 Ollama 无缝衔接，借助其丰富 AI 模型开展对话�
 ### 前提条件
 Unreal Engine 5.5
 ### 步骤
-从 GitHub 上克隆或下载插件代码至本地。<br>
-将插件文件夹复制到 UE5.5 项目的Plugins目录下。<br>
-打开 UE5.5 编辑器，在Edit -> Plugins中找到 AI_Changing 插件并启用。<br>
-重启 UE5.5 编辑器。
+1.从 GitHub 上克隆或下载插件代码至本地。<br>
+2.将AI_Changing\Resources创建一个名为“AI_ZD”的文件夹<br>
+然后从“https://github.com/ollama/ollama/releases/tag/v0.6.4”下载win版本的ollama<br>
+解压并发将名为“ollama”的文件夹放置在“AI_ZD”的文件夹下面<br>
+3.将整个插件文件夹复制到 UE5.5 项目的Plugins目录下。<br>
+4.打开 UE5.5 编辑器，在Edit -> Plugins中找到 AI_Changing 插件并启用。<br>
+5.重启 UE5.5 编辑器。
 ## 配置
 打开 UE5.5 编辑器，在 “编辑器偏好” 的 “插件” 的 “AI chat” 开源设置中，找到 AI_Changing 插件的配置选项。<br>
 默认已配置 Ollama 的 “API” 地址和 “11434” 端口。<br>
