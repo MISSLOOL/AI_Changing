@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AI_Changing",
+	"Description": "基于ollama的支持AI接入",
+	"Category": "AI_Chat",
+	"CreatedBy": "乃冬橘",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AI_Changing",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
