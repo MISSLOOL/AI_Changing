@@ -12,11 +12,13 @@ Unreal Engine 5.5
 ### 步骤
 1.从 GitHub 上克隆或下载插件代码至本地。<br>
 2.将AI_Changing\Resources创建一个名为“AI_ZD”的文件夹<br>
-然后从“https://github.com/ollama/ollama/releases/tag/v0.6.4”下载win版本的ollama<br>
-解压并发将名为“ollama”的文件夹放置在“AI_ZD”的文件夹下面<br>
-3.将整个插件文件夹复制到 UE5.5 项目的Plugins目录下。<br>
-4.打开 UE5.5 编辑器，在Edit -> Plugins中找到 AI_Changing 插件并启用。<br>
-5.重启 UE5.5 编辑器。
+3.然后从“https://github.com/ollama/ollama/releases/tag/v0.6.4” 下载win版本的ollama<br>
+4.解压并发将名为“ollama”的文件夹放置在“AI_ZD”的文件夹下面<br>
+如果你不想：进行2，3，4步骤，可以直接下载整个插件：<br>
+链接: https://pan.baidu.com/s/1-mMF_3GmJ4Vn8_rHBRmfdw 提取码: 9420 <br>
+5.将整个插件文件夹复制到 UE5.5 项目的Plugins目录下。<br>
+6.打开 UE5.5 编辑器，在Edit -> Plugins中找到 AI_Changing 插件并启用。<br>
+7.重启 UE5.5 编辑器。
 ## 配置
 打开 UE5.5 编辑器，在 “编辑器偏好” 的 “插件” 的 “AI chat” 开源设置中，找到 AI_Changing 插件的配置选项。<br>
 默认已配置 Ollama 的 “API” 地址和 “11434” 端口。<br>
